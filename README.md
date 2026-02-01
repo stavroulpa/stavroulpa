@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Stavroula (Valia) Panagiotopoulou
 
-<!--
-**stavroulpa/stavroulpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics Gratuate | 📊 Data Analyst Enthusiast
+📍 Based in Thessaloniki
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Mathematics graduate with a strong interest in Data Analysis.  
+I focus on developing analytical and technical skills through continuous learning and hands on practice.  
+Motivated to grow and build a solid foundation for a career in data analytics.
+
+
+-🌱 Currently learning: Python, SQL, Power BI  
+-💡 Interested in: Data Analysis, Data Visualization, Insights & Reporting  
+-🎯 Goal: Build a strong foundation and pursue an entry-level role in Data Analysis
+
+---
+
+## 🛠 Tech Stack
+**Languages:**  
+- Python | SQL | HTML | CSS
+
+**Frameworks & Tools:**  
+- Excel
+- Power BI
+- Numpy,Pandas,Matplotlib
+
+---
+
+## 📂 Featured Projects
+🔹 **Power BI Sales Performance Dashboard**  
+Power BI case study focused on analyzing sales performance and profitability across customers, products and countries.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/stavroulpa
+- LinkedIn: https://linkedin.com/in/stavroula-panagiotopoulou
+- Email: panagiotopoulou.va@gmail.com
