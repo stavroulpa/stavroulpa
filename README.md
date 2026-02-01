@@ -29,7 +29,9 @@ Motivated to grow and build a solid foundation for a career in data analytics.
 ---
 
 ## 📂 Featured Projects
-🔹 **Power BI Sales Performance Dashboard**  
+🔹 **Power BI Sales Performance Dashboard** (https://github.com/stavroulpa/powerbi-sales-performance-dashboard)
+
+
 Power BI case study focused on analyzing sales performance and profitability across customers, products and countries.
 
 ---
